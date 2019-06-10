@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=13xiZwsNbMs4lwxVvgzht0b7WA0mLkUR7'
+export_file_url = 'https://drive.google.com/uc?export=download&id=13xiZwsNbMs4lwxVvgzht0b7WA0mLkUR7 '
 export_file_name = 'export_sports.pkl'
 
 classes = ['soccer','cricket','field_hockey','tennis','volleyball',
